@@ -1,5 +1,5 @@
-# `Deploy`
-[![Deploy](https://git.heroku.com/botgwerrjink.git)]
+# `Deploy di replit`
+[![Deploy](https://replit.com/@Nathanerrop/bot#README.md)]
 
 
 
